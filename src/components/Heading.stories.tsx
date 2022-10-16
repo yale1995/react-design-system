@@ -5,7 +5,7 @@ export default {
   title: "Components/Heading",
   component: Heading,
   args: {
-    children: "Obrigado por tudo que tens feito na minha vida Jesus",
+    children: "Heading Example",
     size: "md",
   },
   argTypes: {
